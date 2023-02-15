@@ -1,7 +1,7 @@
 # python-web_scraper
-Web Scraper using Scrapy Library in Jupyter Notebook 
+## Web Scraper using Scrapy Library in Jupyter Notebook 
 
-Introduction
+### Introduction
 This project is aimed at creating a web scraper that can extract information from a specified website. 
 The scraper has been implemented using the Scrapy library in Jupyter Notebook. The information gathered from the website will be saved in a .csv file for further analysis.
 
